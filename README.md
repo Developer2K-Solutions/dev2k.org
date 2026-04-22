@@ -1,16 +1,16 @@
-# dev2k.org — Professionelle Portfolio-Website
+# dev2k.org — Professional Portfolio Website
 
-> **Ziel:** Professionelle Single Page Application (SPA) mit Angular als digitale Visitenkarte und Portfolio für die Selbständigkeit als Software Developer.
+> **Goal:** Professional Single Page Application (SPA) built with Angular — a digital business card and portfolio for freelance software development work.
 
 ---
 
-## Projektübersicht
+## Overview
 
-Die Website **dev2k.org** präsentiert mich als freiberuflichen Software Developer. Sie dient als erster Anlaufpunkt für potenzielle Kunden und Auftraggeber und stellt meine Leistungen, Projekte und Kontaktmöglichkeiten klar und modern dar.
+**dev2k.org** presents me as a freelance software developer. It serves as the primary entry point for potential clients, clearly showcasing my services, projects, and contact options.
 
-### Technologie-Stack
+### Tech Stack
 
-| Schicht   | Technologie                                      |
+| Layer     | Technology                                       |
 | --------- | ------------------------------------------------ |
 | Framework | Angular 21 (SPA, Standalone Components, Signals) |
 | Styling   | SCSS (`@dev2k/scss-library`) + BEM               |
@@ -24,47 +24,47 @@ Die Website **dev2k.org** präsentiert mich als freiberuflichen Software Develop
 
 ---
 
-## Sektionen
+## Sections
 
-| Sektion    | Beschreibung                                          |
-| ---------- | ----------------------------------------------------- |
-| Hero       | Headline, Claim und Call-to-Action „Projekt anfragen" |
-| Über mich  | Kurzvorstellung, Standort, Verfügbarkeit              |
-| Leistungen | Angular Dev, TypeScript, Consulting, CI/CD            |
-| Tech-Stack | Icon-Grid: Angular, TS, SCSS, Firebase, Git, Linux    |
-| Projekte   | dev2k.org, Portfolio.dev2k, KI Coding Mastery, DA     |
-| Kontakt    | Reactive Form + direkte Kontaktdaten                  |
+| Section    | Description                                               |
+| ---------- | --------------------------------------------------------- |
+| Hero       | Headline, tagline, and call-to-action "Request a project" |
+| About      | Short introduction, location, availability                |
+| Services   | Angular Dev, TypeScript, Consulting, CI/CD                |
+| Tech Stack | Icon grid: Angular, TS, SCSS, Firebase, Git, Linux        |
+| Projects   | dev2k.org, Portfolio.dev2k, KI Coding Mastery, DA         |
+| Contact    | Reactive form + direct contact details                    |
 
 ---
 
-## Workspace-Module
+## Workspace Modules
 
-Eigens entwickelte Module, die in der SPA wiederverwendet werden:
+Custom-built modules reused across the SPA:
 
 ```text
 dev2k_modules/
-├── scss-library/       # Globale SCSS-Bibliothek (Variablen, Mixins, Breakpoints)
-└── reactive-forms/     # Typisierte Reactive Forms Utilities & Validatoren
+├── scss-library/       # Global SCSS library (variables, mixins, breakpoints)
+└── reactive-forms/     # Typed reactive forms utilities & validators
 ```
 
 ---
 
-## Projektstatus
+## Project Status
 
-| Phase | Beschreibung                            | Status           |
-| ----- | --------------------------------------- | ---------------- |
-| 1     | Planung & Konzept                       | ✅ Abgeschlossen |
-| 2     | Angular-Projekt Setup                   | ⬜ Offen         |
-| 3     | Core Infrastructure (Services + Layout) | ⬜ Offen         |
-| 4     | Feature Sections (TDD)                  | ⬜ Offen         |
-| 5     | Styling & Design System                 | ⬜ Offen         |
-| 6     | Inhalte & SEO                           | ⬜ Offen         |
-| 7     | CI/CD & Deployment (Vercel)             | ⬜ Offen         |
+| Phase | Description                             | Status  |
+| ----- | --------------------------------------- | ------- |
+| 1     | Planning & Concept                      | ✅ Done |
+| 2     | Angular Project Setup                   | ⬜ Open |
+| 3     | Core Infrastructure (Services + Layout) | ⬜ Open |
+| 4     | Feature Sections (TDD)                  | ⬜ Open |
+| 5     | Styling & Design System                 | ⬜ Open |
+| 6     | Content & SEO                           | ⬜ Open |
+| 7     | CI/CD & Deployment (Vercel)             | ⬜ Open |
 
 ---
 
-## Entwickler
+## Developer
 
 **Konstantin Aksenov**
-Freiberuflicher Software Developer · Angular / TypeScript / SCSS
+Freelance Software Developer · Angular / TypeScript / SCSS
 🔗 [GitHub](https://github.com/KosMaster87) · 📧 [Konstantin.Aksenov@dev2k.org](mailto:Konstantin.Aksenov@dev2k.org) · 🌐 [dev2k.org](https://dev2k.org)

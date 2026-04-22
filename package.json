@@ -18,7 +18,7 @@
     "@angular/platform-browser": "^21.2.0",
     "@angular/router": "^21.2.0",
     "@angular/service-worker": "^21.2.0",
-    "@dev2k/scss-library": "github:KosMaster87/scss-library#v1.1.0",
+    "@dev2k/scss-library": "github:KosMaster87/scss-library#main",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0"
   },
